@@ -24,4 +24,6 @@ options:
   -p VALUE, --port VALUE &emsp; &emsp; &nbsp;&nbsp;Change serial port (Default COM4)  
   -br VALUE, --baudrate VALUE &nbsp;&nbsp;Change baud rate (Default 115200)  
 
-Then choose options from menu
+Then choose options from menu  
+
+Press SW2 button to set led default configuration
