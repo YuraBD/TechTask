@@ -177,5 +177,3 @@ static void isr_timer(void *callback_arg, cyhal_timer_event_t event)
 }
 
 /* [] END OF FILE */
-
-/* [] END OF FILE */

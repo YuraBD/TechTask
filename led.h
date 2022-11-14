@@ -12,7 +12,7 @@
 #define LED_MAX_BRIGHTNESS      (100u)
 
 /* Allowed duty cycle for minimum brightness*/
-#define LED_MIN_BRIGHTNESS      (2u)
+#define LED_MIN_BRIGHTNESS      (0u)
 
 /* LED blink timer clock value in Hz  */
 #define DEFAULT_LED_BLINK_TIMER_CLOCK_HZ          (10000u)
